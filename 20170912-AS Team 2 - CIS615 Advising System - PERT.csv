@@ -1,0 +1,36 @@
+Id,Name,Shape Library,Page ID,Contained By,Line Source,Line Destination,Source Arrow,Destination Arrow,Text Area 1,Text Area 2,Text Area 3
+1,Page,,,,,,,,Page 1,,
+2,Terminator,Flowchart Shapes,1,,,,,,Start,,
+3,Table,Tables,1,,,,,,Formalize specifications,Date: 9/13/17,Duration: 8
+4,Table,Tables,1,,,,,,Configure hardware,Date: 9/14/17,Duration: 16
+5,Table,Tables,1,,,,,,Design Database,Date: 9/18/17,16
+6,Table,Tables,1,,,,,,Design User Interface,Date: 9/14/17,Duration: 960
+7,Table,Tables,1,,,,,,Test Software,Date: 3/15/18,Duration: 40
+8,Table,Tables,1,,,,,,Create Manual/Tutorial,Date: 12/11/17,Duration: 480
+9,Table,Tables,1,,,,,,Release Software,Date: 3/26/18,Duration: 8
+10,Table,Tables,1,,,,,,Edit/Update Manual/Tutorial,Date: 3/20/18,Duration: 16
+11,Table,Tables,1,,,,,,Publish Manual/Tutorial,Date: 3/26/18,Duration: 8
+12,Text,Default,1,,,,,,*Duration is in man-hours,,
+13,Table,Tables,1,,,,,,Configure User Interface,Date: 3/1/18,Duration: 80
+14,Table,Tables,1,,,,,,Define Vision and Scope,Date: 9/12/17,Duration: 8
+15,Table,Tables,1,,,,,,Train Support Staff,Date: 3/22/18,Duration: 16
+16,Table,Tables,1,,,,,,Post Implementation Review,Date: 3/27/18,Duration: 16
+17,Terminator,Flowchart Shapes,1,,,,,,End,,
+18,Line,,1,,3,4,None,Arrow,,,
+19,Line,,1,,3,8,None,Arrow,,,
+20,Line,,1,,8,10,None,Arrow,,,
+21,Line,,1,,13,10,None,Arrow,,,
+22,Line,,1,,4,5,None,Arrow,,,
+23,Line,,1,,5,7,None,Arrow,,,
+24,Line,,1,,3,6,None,Arrow,,,
+25,Line,,1,,13,7,None,Arrow,,,
+26,Line,,1,,6,13,None,Arrow,,,
+27,Line,,1,,2,14,None,Arrow,,,
+28,Line,,1,,14,3,None,Arrow,,,
+29,Line,,1,,10,15,None,Arrow,,,
+30,Line,,1,,7,15,None,Arrow,,,
+31,Line,,1,,15,9,None,Arrow,,,
+32,Line,,1,,15,11,None,Arrow,,,
+33,Line,,1,,9,16,None,Arrow,,,
+34,Line,,1,,11,16,None,Arrow,,,
+35,Line,,1,,16,17,None,Arrow,,,
