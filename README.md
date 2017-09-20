@@ -11,3 +11,4 @@ This is the readme file
 
 20170916 - Uploaded first AS Team 2 Domain level document
 
+20170919 - Deleted initial requirements document.  Uploaded final domain model file.
